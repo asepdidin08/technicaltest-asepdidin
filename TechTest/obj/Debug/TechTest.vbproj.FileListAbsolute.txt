@@ -1,0 +1,16 @@
+D:\TestInterview\TechTest\TechTest\bin\TechTest.dll
+D:\TestInterview\TechTest\TechTest\bin\TechTest.pdb
+D:\TestInterview\TechTest\TechTest\bin\TechTest.xml
+D:\TestInterview\TechTest\TechTest\obj\Debug\TechTest.Resources.resources
+D:\TestInterview\TechTest\TechTest\obj\Debug\TechTest.vbproj.GenerateResource.Cache
+D:\TestInterview\TechTest\TechTest\obj\Debug\TechTest.dll
+D:\TestInterview\TechTest\TechTest\obj\Debug\TechTest.xml
+D:\TestInterview\TechTest\TechTest\obj\Debug\TechTest.pdb
+C:\Users\Asus\Desktop\TechTest\TechTest\bin\TechTest.dll
+C:\Users\Asus\Desktop\TechTest\TechTest\bin\TechTest.pdb
+C:\Users\Asus\Desktop\TechTest\TechTest\bin\TechTest.xml
+C:\Users\Asus\Desktop\TechTest\TechTest\obj\Debug\TechTest.Resources.resources
+C:\Users\Asus\Desktop\TechTest\TechTest\obj\Debug\TechTest.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\TechTest\TechTest\obj\Debug\TechTest.dll
+C:\Users\Asus\Desktop\TechTest\TechTest\obj\Debug\TechTest.xml
+C:\Users\Asus\Desktop\TechTest\TechTest\obj\Debug\TechTest.pdb
